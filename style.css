@@ -1,0 +1,116 @@
+
+body{
+    display: flex;
+    background-image: url(image/background.jpg) ;
+    
+    
+}
+
+.result{
+    width: 100%;
+    padding: 10%;
+    
+    
+    
+    
+}
+
+#acButton{
+    width: 50%;
+    height: 3rem;
+    padding: 1px ;
+    margin: 0;
+    border-radius: 40px;
+    background-color: sandybrown;
+}
+
+button{
+    width: 25%;
+    height: 3rem;
+    margin: auto;
+    border-radius: 40px;
+}
+.butonlar{
+    display: table;
+    width: 100%;
+    margin-top: 30px;
+    
+}
+.baslık{
+    margin-left: 660px ;
+    margin-top: 50px;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Yellowtail', cursive;
+
+}
+
+
+.display{
+    height: 75px;
+    width:90%;
+    border: none;
+    background-color:#CFD8DC;
+    color: #424242;
+    text-align: right;
+    font-size: 30px;
+    margin-left: -30px;    
+    margin-bottom: -25px;
+}
+
+.inputs{
+    border: 1px solid #CFD8DC;
+}
+
+.arkaplan{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 30%;
+    background-color: #424242;
+    border: 2px solid black;
+    box-shadow: 3px 3px 4px rgb(22, 22, 22);
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    margin-left: -200px;
+    margin-top: 100px;
+}
+#-Button{
+    background-color: skyblue;
+
+}
+#artıButton{
+    background-color: skyblue;
+
+}
+#yıldızButton{
+    background-color: skyblue;
+
+}
+#cButton{
+    background-color: skyblue;
+
+}
+#esitButton{
+    background-color: rgb(214, 52, 52);
+    width: 200px;
+
+}
+#-Button{
+    background-color: skyblue;
+
+}
+#egikButton{
+    background-color: skyblue;
+
+}
+#noktaButton{
+    background-color: skyblue;
+
+}
+#eksibutton{
+    background-color: skyblue;
+}
+
+
